@@ -1,0 +1,1 @@
+Implemented a genetic algorithm to solve portfolio optimization problems with cardinality constraints. Analyzed optimal asset selection, minimizing risk, and maximizing performance, applying concepts from Harry Markowitz. Emphasized the importance of finding efficient solutions through quadratic programming and the imposition of integer constraints.
